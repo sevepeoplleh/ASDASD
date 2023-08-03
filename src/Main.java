@@ -6,7 +6,8 @@ public class Main {
             System.out.print("yes");
         } else {
             System.out.print("no");
-        }
 
+        }
+        System.out.println("the code is complete");
     }
 }
